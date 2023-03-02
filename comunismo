@@ -1,0 +1,27 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 06 HTML - lista e tabelas</title>
+</head>
+<body>
+
+<table border= "50px" width="500" height="500">
+
+     <tr>
+        <td width="50" height="50">
+        <img src="seedorf.png"> 
+    </td>
+          <td> <img src="foice-martelo.jpg"> </td>
+          <td> <img src="21164f8b34bfcce4b70beddd7e29249b90d6d6a9.webp"> </td>
+          <td> <img src="karl_marx_cropped.png"> </td>
+          <td> <img src="che-guevara-600x450.jpg"> </td>
+          
+    </tr>
+
+</table>
+     
+</body>
+</html>
